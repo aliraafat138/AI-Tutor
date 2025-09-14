@@ -9,7 +9,7 @@ The tutor is designed to provide **clear, concise explanations** and stream resp
 - ✅ **AI Tutor** that explains concepts simply and clearly  
 - ✅ **Streaming responses** (text comes in like typing)  
 - ✅ **Gradio interface** for an easy-to-use web app  
-- ✅ Configurable model (default: `mistralai/mistral-small-3.2-24b-instruct:free`)  
+  
 
 
 📸 Demo Screenshot
